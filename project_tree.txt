@@ -1,0 +1,12 @@
+.
+├── Financial News Summary and Sentiment Report.pdf
+├── Financial News Summarization and Sentiment Presentation.pdf
+├── Financial News Summarization.pdf
+├── LICENSE
+├── project_tree.txt
+├── README.md
+├── Sentiment Analysis Code.pdf
+├── Sentiment_Analysis.ipynb
+├── sentiment_analysis.txt
+├── TextSummarization.ipynb
+└── textsummarization.txt
